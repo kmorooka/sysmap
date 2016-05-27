@@ -1,0 +1,43 @@
+appl,PV,appl_server,pCPU,pCore,pMem,pStorage,pOS,Clustering,pMiddle,Hypervisor,VM,vCPU,vMem,vStorage,vOS,vMiddle
+‹Æ–±3,P,ƒŒƒmƒ{,Xeon,4,64,1024,Linux,,CRM,,,,,,,CRM-Pkg
+‹Æ–±3,P,“ú—§ ƒnƒCƒGƒ“ƒh,PowerPC,4,128,2048,AIX,HA,SCM-0,,,,,,,SCM-Pkg
+‹Æ–±3,P,“ú—§ ƒnƒCƒGƒ“ƒh,PowerPC,4,128,2048,AIX,HA,SCM-1,,,,,,,SCM-Pkg
+‹Æ–±3,P,“ú—§ ƒnƒCƒGƒ“ƒh,PowerPC,8,256,8000,AIX,,"MQ,FTP",PowerVM,,,,,,
+‹Æ–±3,V,“ú—§ ƒnƒCƒGƒ“ƒh,,,,,,,,,vserv-1,2,8,500,Linux,ERP
+‹Æ–±3,V,Lenovo,,,,,,,,,vserv-12,4,16,256,Linux,Print/Report
+‹Æ–±3,V,“ú—§ ƒnƒCƒGƒ“ƒh,,,,,,,,,vserv-2,2,8,500,Linux,Security
+‹Æ–±3,V,ƒŒƒmƒ{,,,,,,,,,vserv-13,4,16,256,Linux,FAQ
+‹Æ–±3,P,ƒŒƒmƒ{,Xeon,8,128,4000,,,"MQ,FTP",ESXi,,,,,,
+‹Æ–±3,V,“ú—§ ƒnƒCƒGƒ“ƒh,,,,,,,,,vserv-3,2,8,500,Windows,ApplPKG
+‹Æ–±3,V,ƒŒƒmƒ{,,,,,,,,,vserv-10,4,16,500,Windows,Dev
+‹Æ–±3,V,“ú—§ ƒnƒCƒGƒ“ƒh,,,,,,,,,vserv-4,2,8,500,Windows,Appl/PKG
+‹Æ–±3,V,“ú—§ ƒnƒCƒGƒ“ƒh,,,,,,,,,vserv-5,2,8,500,Linux,ApplSDK
+‹Æ–±3,V,ƒŒƒmƒ{,,,,,,,,,vserv-11,4,16,256,Windows,Test
+‹Æ–±‚Q,P,•xm’Ê,Xeon,4,64,1024,Linux,,CRM,,,,,,,l–
+‹Æ–±‚Q,P,•xm’ÊHight,SPARC,4,128,2048,AIX,HA,SCM-0,,,,,,,‹‹—^
+‹Æ–±‚Q,P,•xm’ÊHight,SPARC,4,128,2048,AIX,HA,SCM-1,,,,,,,’²’B
+‹Æ–±‚Q,P,•xm’ÊHight,SPARC,8,256,8000,AIX,,"MQ,FTP",PowerVM,,,,,,‚¢‚ë‚¢‚ë
+‹Æ–±‚Q,V,•xm’ÊHight,,,,,,,,,vserv-1,2,8,500,Linux,ERP
+‹Æ–±‚Q,V,•xm’Ê,,,,,,,,,vserv-12,4,16,256,Linux,î•ñ‹¤—L
+‹Æ–±‚Q,V,•xm’ÊHight,,,,,,,,,vserv-2,2,8,500,Linux,ƒZƒLƒ…ƒŠƒeƒB
+‹Æ–±‚Q,V,•xm’Ê,,,,,,,,,vserv-13,4,16,256,Linux,î•ñ‹¤—L
+‹Æ–±‚Q,P,•xm’Ê,Xeon,8,128,4000,,,"MQ,FTP",ESXi,,,,,,‚¢‚ë‚¢‚ë
+‹Æ–±‚Q,V,•xm’ÊHight,,,,,,,,,vserv-3,2,8,500,Windows,¶YŠÇ—
+‹Æ–±‚Q,V,•xm’Ê,,,,,,,,,vserv-10,4,16,500,Windows,ŠJ”­ŒŸØ
+‹Æ–±‚Q,V,•xm’ÊHight,,,,,,,,,vserv-4,2,8,500,Windows,•¨—¬
+‹Æ–±‚Q,V,•xm’ÊHight,,,,,,,,,vserv-5,2,8,500,Linux,‰c‹Æ
+‹Æ–±‚Q,V,•xm’Ê,,,,,,,,,vserv-11,4,16,256,Windows,ƒeƒXƒgŒŸØ
+‹Æ–±‚P,P,Dell-1,Xeon,4,64,1024,Linux,,CRM,,,,,,,CRM-Pkg
+‹Æ–±‚P,P,IBM P-0,PowerPC,4,128,2048,AIX,HA,SCM-0,,,,,,,SCM-Pkg
+‹Æ–±‚P,P,IBM P-1,PowerPC,4,128,2048,AIX,HA,SCM-1,,,,,,,SCM-Pkg
+‹Æ–±‚P,P,IBM P-2,PowerPC,8,256,8000,AIX,,"MQ,FTP",PowerVM,,,,,,
+‹Æ–±‚P,V,IBM P-2,,,,,,,,,vserv-1,2,8,500,Linux,ERP
+‹Æ–±‚P,V,Dell-2,,,,,,,,,vserv-12,4,16,256,Linux,Print/Report
+‹Æ–±‚P,V,IBM P-2,,,,,,,,,vserv-2,2,8,500,Linux,Security
+‹Æ–±‚P,V,Dell-2,,,,,,,,,vserv-13,4,16,256,Linux,FAQ
+‹Æ–±‚P,P,Dell-2,Xeon,8,128,4000,,,"MQ,FTP",ESXi,,,,,,
+‹Æ–±‚P,V,IBM P-2,,,,,,,,,vserv-3,2,8,500,Windows,ApplPKG
+‹Æ–±‚P,V,Dell-2,,,,,,,,,vserv-10,4,16,500,Windows,Dev
+‹Æ–±‚P,V,IBM P-2,,,,,,,,,vserv-4,2,8,500,Windows,Appl/PKG
+‹Æ–±‚P,V,IBM P-2,,,,,,,,,vserv-5,2,8,500,Linux,ApplSDK
+‹Æ–±‚P,V,Dell-2,,,,,,,,,vserv-11,4,16,256,Windows,Test
